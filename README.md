@@ -1,5 +1,5 @@
 ### Salve, me chamo Fernando Mors
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5011&color=CFCECB&center=falso&vCenter=falso&lines=👋+Hello+World,+Fernando+Mors+aqui;👋+Bienvenida(o)+to+my+profile+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5011&color=CFCECB&center=falso&vCenter=falso&lines=👋+Hello+World,+Fernando+Mors+aqui;👋+Bem+vindo+ao+meu+perfil](https://git.io/typing-svg)
 
  <div>
   <a href="https://github.com/fernandomors">
